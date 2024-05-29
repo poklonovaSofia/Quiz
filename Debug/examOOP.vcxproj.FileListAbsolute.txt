@@ -1,0 +1,2 @@
+C:\Users\Соня\source\repos\examOOP\Debug\examOOP.exe
+D:\source\repos\examOOP\Debug\examOOP.exe

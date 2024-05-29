@@ -1,0 +1,130 @@
+﻿  MD5.cpp
+  Source.cpp
+D:\source\repos\examOOP\DataBase.h(20,23): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\DataBase.h(388,14): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\DataBase.h(470,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\DataBase.h(1396,20): warning C4101: ptrSqlVersion: неиспользованная локальная переменная
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\DataBase.h(1395,17): warning C4101: login: неиспользованная локальная переменная
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\DataBase.h(1426,20): warning C4101: ptrSqlVersion: неиспользованная локальная переменная
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\DataBase.h(1425,17): warning C4101: login: неиспользованная локальная переменная
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\DataBase.h(1641,20): warning C4101: ptrSqlVersion: неиспользованная локальная переменная
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\DataBase.h(1640,17): warning C4101: login: неиспользованная локальная переменная
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\DataBase.h(1677,20): warning C4101: ptrSqlVersion: неиспользованная локальная переменная
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\DataBase.h(1676,17): warning C4101: login: неиспользованная локальная переменная
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\DataBase.h(1715,17): warning C4101: status: неиспользованная локальная переменная
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\DataBase.h(1716,20): warning C4101: ptrSqlVersion: неиспользованная локальная переменная
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\DataBase.h(2130,23): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\DataBase.h(2142,23): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Menu.h(50,25): warning C4018: >: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Menu.h(64,22): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Menu.h(89,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Menu.h(118,21): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Menu.h(120,15): warning C4018: >: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\BaseUser.h(187,35): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Question.h(52,15): warning C4018: <=: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Question.h(494,5): warning C4809: в операторе switch имеется ненужная метка "default"; все возможные метки "case" уже заданы
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Test.h(75,13): warning C4244: =: преобразование "_Ty1" в "float", возможна потеря данных
+D:\source\repos\examOOP\Test.h(75,13): warning C4244:         with
+D:\source\repos\examOOP\Test.h(75,13): warning C4244:         [
+D:\source\repos\examOOP\Test.h(75,13): warning C4244:             _Ty1=const int
+D:\source\repos\examOOP\Test.h(75,13): warning C4244:         ]
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Test.h(94,36): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Test.h(100,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Test.h(168,27): warning C4018: <=: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Test.h(214,35): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Test.h(261,38): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Test.h(262,49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Test.h(277,39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Test.h(289,52): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Test.h(488,42): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Test.h(489,49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Test.h(527,43): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Test.h(528,50): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\User.h(177,50): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Admin.h(135,35): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Source.cpp")
+  
+D:\source\repos\examOOP\Admin.h(167,43): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "Source.cpp")
+  
+  Создание кода...
+D:\source\repos\examOOP\DataBase.h(2136): warning C4172: возвращение адреса локальной или временной переменной : cval
+D:\source\repos\examOOP\DataBase.h(2148): warning C4172: возвращение адреса локальной или временной переменной : cval
+D:\source\repos\examOOP\Question.h(221): warning C4715: Question::finish: значение возвращается не при всех путях выполнения
+D:\source\repos\examOOP\Test.h(311): warning C4715: Test::saveFin: значение возвращается не при всех путях выполнения
+D:\source\repos\examOOP\Test.h(420): warning C4715: Test::finish: значение возвращается не при всех путях выполнения
+  examOOP.vcxproj -> D:\source\repos\examOOP\Debug\examOOP.exe
